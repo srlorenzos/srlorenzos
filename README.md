@@ -13,6 +13,7 @@
 Profissional de tecnologia com experiência em **infraestrutura corporativa**, **suporte técnico avançado** e **soluções digitais**. Gosto de automatizar o que é repetitivo, deixar ambientes estáveis e transformar ideias em produtos que as pessoas usam, de scripts de diagnóstico a um jogo completo.
 
 - Hoje: desenvolvendo o **Horda Infinita**, um roguelite de sobrevivência em Godot.
+- Também: aplicações internas com Azure, Microsoft 365 e IA (Azure OpenAI e Claude).
 - Interesses: automação, Microsoft 365 e Azure, Linux, monitoramento e desenvolvimento de jogos.
 
 ## Projetos em destaque
@@ -35,6 +36,8 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 
 | Projeto | O que é |
 | --- | --- |
+| [**Hub de Consultoria**](https://github.com/srlorenzos/hub-consultoria-showcase) | Portal interno de consultoria Microsoft 365: documentos gerados com IA a partir de prints, kanban sincronizado com SharePoint e dashboard. *Vitrine com dados fictícios.* |
+| [**Design system como skill do Claude**](https://github.com/srlorenzos/design-system-claude-showcase) | Identidade, componentes, UX e segurança por padrão para as aplicações internas, aplicados automaticamente pela IA. *Vitrine com dados fictícios.* |
 | [**valida-br**](https://github.com/srlorenzos/valida-br) | Valida e formata CPF, CNPJ (inclusive o **alfanumérico de 2026**), CEP e telefone. Zero dependências, testado no Node 18/20/22. |
 | [**infra-toolkit**](https://github.com/srlorenzos/infra-toolkit) | Relatório de saúde do Windows em HTML e diagnóstico de rede em etapas para Windows e Linux. |
 | [**status-sentinela**](https://github.com/srlorenzos/status-sentinela) | Monitor de disponibilidade grátis e sem servidor: GitHub Actions + [página de status](https://srlorenzos.github.io/status-sentinela/). |
