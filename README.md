@@ -39,6 +39,7 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 
 | Projeto | O que é |
 | --- | --- |
+| [**farol-rmm**](https://github.com/srlorenzos/farol-rmm) | RMM próprio: painel web, agente Python para Windows/Linux, scripts remotos com confirmação 2FA, alertas e auditoria. [Demo](https://srlorenzos.netlify.app/demos/farol-rmm/) |
 | [**resumo-do-dia**](https://github.com/srlorenzos/resumo-do-dia) | E-mail toda manhã com agenda do Google, tarefas do TickTick e contas do Organizze, via GitHub Actions. [Demo](https://srlorenzos.netlify.app/demos/resumo-do-dia/) |
 | [**email-para-tarefa**](https://github.com/srlorenzos/email-para-tarefa) | Cloudflare Email Worker: encaminhe um e-mail e ele vira tarefa no TickTick, com `#tag !alta @sexta` no assunto. [Demo](https://srlorenzos.netlify.app/demos/email-para-tarefa/) |
 | [**painel-organizze**](https://github.com/srlorenzos/painel-organizze) | Painel financeiro para o Organizze com gráficos SVG interativos e zero dependências. [Demo](https://srlorenzos.netlify.app/demos/painel-organizze/) |
