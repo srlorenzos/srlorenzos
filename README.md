@@ -39,6 +39,7 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 
 | Projeto | O que é |
 | --- | --- |
+| [**quorum-trader**](https://quorum-trader.netlify.app) | Robô de trade para Windows em **Python**: agentes que votam e aprendem de hora em hora, notícias via RSS, MetaTrader 5 (XP) e Binance, backtest e travas de risco. Produto com licença Ed25519 e site de vendas com Netlify Functions. [Demo](https://srlorenzos.netlify.app/demos/quorum-trader/) |
 | [**farol-rmm**](https://github.com/srlorenzos/farol-rmm) | RMM próprio: painel web, agente Python para Windows/Linux, scripts remotos com confirmação 2FA, alertas e auditoria. [Demo](https://srlorenzos.netlify.app/demos/farol-rmm/) |
 | [**resumo-do-dia**](https://github.com/srlorenzos/resumo-do-dia) | E-mail toda manhã com agenda do Google, tarefas do TickTick e contas do Organizze, via GitHub Actions. [Demo](https://srlorenzos.netlify.app/demos/resumo-do-dia/) |
 | [**email-para-tarefa**](https://github.com/srlorenzos/email-para-tarefa) | Cloudflare Email Worker: encaminhe um e-mail e ele vira tarefa no TickTick, com `#tag !alta @sexta` no assunto. [Demo](https://srlorenzos.netlify.app/demos/email-para-tarefa/) |
