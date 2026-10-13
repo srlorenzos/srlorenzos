@@ -5,7 +5,6 @@
 <a href="https://srlorenzos.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-demos%20ao%20vivo-7c9cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio com demos ao vivo"/></a>
 <a href="https://www.instagram.com/srlorenzos/"><img src="https://img.shields.io/badge/Instagram-@srlorenzos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/srlorenzos"><img src="https://img.shields.io/badge/LinkedIn-srlorenzos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/srlorenzos"><img src="https://img.shields.io/badge/X-@srlorenzos-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
 </div>
 
@@ -43,6 +42,7 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 | [**rumo**](https://github.com/srlorenzos/rumo-showcase) | Tarefas com **GTD completo**, agenda (Google e Outlook), finanças com **Open Finance**, hábitos e foco num só app. PWA offline e app para Windows (Electron). [Demo](https://srlorenzos.vercel.app/demos/rumo/) · [Baixar](https://rumo-demo-phi.vercel.app/baixar) |
 | [**quorum-trader**](https://quorum-trader.netlify.app) | Robô de trade para Windows em **Python**: agentes que votam e aprendem de hora em hora, notícias via RSS, MetaTrader 5 (XP) e Binance, backtest e travas de risco. Produto com licença Ed25519 e site de vendas com Netlify Functions. [Demo](https://srlorenzos.vercel.app/demos/quorum-trader/) |
 | [**farol-rmm**](https://github.com/srlorenzos/farol-rmm) | RMM próprio: painel web, agente Python para Windows/Linux, scripts remotos com confirmação 2FA, alertas e auditoria. [Demo](https://srlorenzos.vercel.app/demos/farol-rmm/) |
+| [**Coube Solutions**](https://github.com/srlorenzos/coube-desinstalador) | Suíte de apps para Windows — Desinstalador, Turbo, Atualiza, Escudo e Drivers — com loja e licenciamento próprios. [Site](https://coube-solutions.vercel.app) |
 | [**resumo-do-dia**](https://github.com/srlorenzos/resumo-do-dia) | E-mail toda manhã com agenda do Google, tarefas do TickTick e contas do Organizze, via GitHub Actions. [Demo](https://srlorenzos.vercel.app/demos/resumo-do-dia/) |
 | [**email-para-tarefa**](https://github.com/srlorenzos/email-para-tarefa) | Cloudflare Email Worker: encaminhe um e-mail e ele vira tarefa no TickTick, com `#tag !alta @sexta` no assunto. [Demo](https://srlorenzos.vercel.app/demos/email-para-tarefa/) |
 | [**painel-organizze**](https://github.com/srlorenzos/painel-organizze) | Painel financeiro para o Organizze com gráficos SVG interativos e zero dependências. [Demo](https://srlorenzos.vercel.app/demos/painel-organizze/) |
