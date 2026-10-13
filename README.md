@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Eduardo%20Lorenzo&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Infraestrutura%20%C2%B7%20Suporte%20avan%C3%A7ado%20%C2%B7%20Solu%C3%A7%C3%B5es%20digitais&descAlignY=60&descSize=16" alt="Eduardo Lorenzo — Infraestrutura, suporte avançado e soluções digitais" width="100%"/>
 
-<a href="https://srlorenzos.netlify.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-demos%20ao%20vivo-7c9cff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio com demos ao vivo"/></a>
+<a href="https://srlorenzos.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-demos%20ao%20vivo-7c9cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio com demos ao vivo"/></a>
 <a href="https://www.instagram.com/srlorenzos/"><img src="https://img.shields.io/badge/Instagram-@srlorenzos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://linkedin.com/in/srlorenzos"><img src="https://img.shields.io/badge/LinkedIn-srlorenzos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/srlorenzos"><img src="https://img.shields.io/badge/X-@srlorenzos-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -19,7 +19,7 @@ Profissional de tecnologia com experiência em **infraestrutura corporativa**, *
 
 ## Projetos em destaque
 
-> 🧪 **[Vitrine com demos que rodam no navegador → srlorenzos.netlify.app](https://srlorenzos.netlify.app)**
+> 🧪 **[Vitrine com demos que rodam no navegador → srlorenzos.vercel.app](https://srlorenzos.vercel.app)**
 
 <table>
 <tr>
@@ -41,14 +41,14 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 | --- | --- |
 | [**coroa-de-brasas**](https://github.com/srlorenzos/coroa-de-brasas) | Estratégia por turnos com heróis, exércitos e combate tático: campanha, mapas aleatórios, 2 facções, 5 magias e IA. Arte 100% por código (canvas). Navegador e Windows. [Jogar](https://srlorenzos.vercel.app/demos/coroa-de-brasas/) · [Baixar](https://coroa-de-brasas-demo.vercel.app/baixar) |
 | [**rumo**](https://github.com/srlorenzos/rumo-showcase) | Tarefas com **GTD completo**, agenda (Google e Outlook), finanças com **Open Finance**, hábitos e foco num só app. PWA offline e app para Windows (Electron). [Demo](https://srlorenzos.vercel.app/demos/rumo/) · [Baixar](https://rumo-demo-phi.vercel.app/baixar) |
-| [**quorum-trader**](https://quorum-trader.netlify.app) | Robô de trade para Windows em **Python**: agentes que votam e aprendem de hora em hora, notícias via RSS, MetaTrader 5 (XP) e Binance, backtest e travas de risco. Produto com licença Ed25519 e site de vendas com Netlify Functions. [Demo](https://srlorenzos.netlify.app/demos/quorum-trader/) |
-| [**farol-rmm**](https://github.com/srlorenzos/farol-rmm) | RMM próprio: painel web, agente Python para Windows/Linux, scripts remotos com confirmação 2FA, alertas e auditoria. [Demo](https://srlorenzos.netlify.app/demos/farol-rmm/) |
-| [**resumo-do-dia**](https://github.com/srlorenzos/resumo-do-dia) | E-mail toda manhã com agenda do Google, tarefas do TickTick e contas do Organizze, via GitHub Actions. [Demo](https://srlorenzos.netlify.app/demos/resumo-do-dia/) |
-| [**email-para-tarefa**](https://github.com/srlorenzos/email-para-tarefa) | Cloudflare Email Worker: encaminhe um e-mail e ele vira tarefa no TickTick, com `#tag !alta @sexta` no assunto. [Demo](https://srlorenzos.netlify.app/demos/email-para-tarefa/) |
-| [**painel-organizze**](https://github.com/srlorenzos/painel-organizze) | Painel financeiro para o Organizze com gráficos SVG interativos e zero dependências. [Demo](https://srlorenzos.netlify.app/demos/painel-organizze/) |
-| [**mcp-pessoal**](https://github.com/srlorenzos/mcp-pessoal) | Servidor MCP que dá ao Claude acesso à agenda, tarefas e finanças. [Demo](https://srlorenzos.netlify.app/demos/mcp-pessoal/) |
-| [**palavreco**](https://github.com/srlorenzos/palavreco) | Jogo de palavras estilo Termo em **Python**/tkinter. [Jogar](https://srlorenzos.netlify.app/demos/palavreco/) |
-| [**gtd-terminal**](https://github.com/srlorenzos/gtd-terminal) | O método GTD no terminal, em **Java 17**, no formato todo.txt. [Demo](https://srlorenzos.netlify.app/demos/gtd-terminal/) |
+| [**quorum-trader**](https://quorum-trader.netlify.app) | Robô de trade para Windows em **Python**: agentes que votam e aprendem de hora em hora, notícias via RSS, MetaTrader 5 (XP) e Binance, backtest e travas de risco. Produto com licença Ed25519 e site de vendas com Netlify Functions. [Demo](https://srlorenzos.vercel.app/demos/quorum-trader/) |
+| [**farol-rmm**](https://github.com/srlorenzos/farol-rmm) | RMM próprio: painel web, agente Python para Windows/Linux, scripts remotos com confirmação 2FA, alertas e auditoria. [Demo](https://srlorenzos.vercel.app/demos/farol-rmm/) |
+| [**resumo-do-dia**](https://github.com/srlorenzos/resumo-do-dia) | E-mail toda manhã com agenda do Google, tarefas do TickTick e contas do Organizze, via GitHub Actions. [Demo](https://srlorenzos.vercel.app/demos/resumo-do-dia/) |
+| [**email-para-tarefa**](https://github.com/srlorenzos/email-para-tarefa) | Cloudflare Email Worker: encaminhe um e-mail e ele vira tarefa no TickTick, com `#tag !alta @sexta` no assunto. [Demo](https://srlorenzos.vercel.app/demos/email-para-tarefa/) |
+| [**painel-organizze**](https://github.com/srlorenzos/painel-organizze) | Painel financeiro para o Organizze com gráficos SVG interativos e zero dependências. [Demo](https://srlorenzos.vercel.app/demos/painel-organizze/) |
+| [**mcp-pessoal**](https://github.com/srlorenzos/mcp-pessoal) | Servidor MCP que dá ao Claude acesso à agenda, tarefas e finanças. [Demo](https://srlorenzos.vercel.app/demos/mcp-pessoal/) |
+| [**palavreco**](https://github.com/srlorenzos/palavreco) | Jogo de palavras estilo Termo em **Python**/tkinter. [Jogar](https://srlorenzos.vercel.app/demos/palavreco/) |
+| [**gtd-terminal**](https://github.com/srlorenzos/gtd-terminal) | O método GTD no terminal, em **Java 17**, no formato todo.txt. [Demo](https://srlorenzos.vercel.app/demos/gtd-terminal/) |
 | [**Hub de Consultoria**](https://github.com/srlorenzos/hub-consultoria-showcase) | Portal interno de consultoria Microsoft 365: documentos gerados com IA a partir de prints, kanban sincronizado com SharePoint e dashboard. *Vitrine com dados fictícios.* |
 | [**Design system como skill do Claude**](https://github.com/srlorenzos/design-system-claude-showcase) | Identidade, componentes, UX e segurança por padrão para as aplicações internas, aplicados automaticamente pela IA. *Vitrine com dados fictícios.* |
 | [**valida-br**](https://github.com/srlorenzos/valida-br) | Valida e formata CPF, CNPJ (inclusive o **alfanumérico de 2026**), CEP e telefone. Zero dependências, testado no Node 18/20/22. |
