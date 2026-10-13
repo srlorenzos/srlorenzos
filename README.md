@@ -27,11 +27,11 @@ Profissional de tecnologia com experiência em **infraestrutura corporativa**, *
 ### 🎮 Horda Infinita
 Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, chefes, 5 biomas e mapa para explorar.
 
-[**Jogar no navegador**](https://horda-infinita.netlify.app) · [Comunidade](https://github.com/srlorenzos/horda-infinita)
+[**Jogar no navegador**](https://horda-infinita.vercel.app) · [Comunidade](https://github.com/srlorenzos/horda-infinita)
 
 </td>
 <td width="50%" valign="top">
-<a href="https://horda-infinita.netlify.app"><img src="horda-infinita.png" alt="Partida do Horda Infinita com a horda cercando o herói"/></a>
+<a href="https://horda-infinita.vercel.app"><img src="horda-infinita.png" alt="Partida do Horda Infinita com a horda cercando o herói"/></a>
 </td>
 </tr>
 </table>
