@@ -39,7 +39,6 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 | Projeto | O que é |
 | --- | --- |
 | [**coroa-de-brasas**](https://github.com/srlorenzos/coroa-de-brasas) | Estratégia por turnos com heróis, exércitos e combate tático: campanha, mapas aleatórios, 2 facções, 5 magias e IA. Arte 100% por código (canvas). Navegador e Windows. [Jogar](https://portfolio.coube.shop/demos/coroa-de-brasas/) · [Baixar](https://coroa-de-brasas-demo.vercel.app/baixar) |
-| [**veil-wardens**](https://veil-wardens-demo.vercel.app) | Protótipo de ação 3D com visual 2.5D em **Unity**: história de 15 fases, diárias, recompensas e 4 personagens com evolução, shader toon próprio e testes automáticos. **Projeto pausado** (falta a arte 3D real). [Baixar para Windows](https://veil-wardens-demo.vercel.app) |
 | [**veil-wardens**](https://veil-wardens-demo.vercel.app) | Protótipo de ação 3D com visual 2.5D em **Unity**: história de 15 fases, diárias, recompensas e 4 personagens com evolução, shader toon próprio e testes automáticos. **Projeto pausado** (falta a arte 3D real). [Ver demo e baixar](https://veil-wardens-demo.vercel.app) |
 | [**rumo**](https://github.com/srlorenzos/rumo-showcase) | Tarefas com **GTD completo**, agenda (Google e Outlook), finanças com **Open Finance**, hábitos e foco num só app. PWA offline e app para Windows (Electron). [Demo](https://portfolio.coube.shop/demos/rumo/) · [Baixar](https://rumo-demo-phi.vercel.app/baixar) |
 | [**quorum-trader**](https://quorum-trader.netlify.app) | Robô de trade para Windows em **Python**: agentes que votam e aprendem de hora em hora, notícias via RSS, MetaTrader 5 (XP) e Binance, backtest e travas de risco. Produto com licença Ed25519 e site de vendas com Netlify Functions. [Demo](https://portfolio.coube.shop/demos/quorum-trader/) |
@@ -56,6 +55,19 @@ Roguelite de sobrevivência contra hordas: 13 heróis, 12 armas com evolução, 
 | [**valida-br**](https://github.com/srlorenzos/valida-br) | Valida e formata CPF, CNPJ (inclusive o **alfanumérico de 2026**), CEP e telefone. Zero dependências, testado no Node 18/20/22. |
 | [**infra-toolkit**](https://github.com/srlorenzos/infra-toolkit) | Relatório de saúde do Windows em HTML e diagnóstico de rede em etapas para Windows e Linux. |
 | [**status-sentinela**](https://github.com/srlorenzos/status-sentinela) | Monitor de disponibilidade grátis e sem servidor: GitHub Actions + [página de status](https://srlorenzos.github.io/status-sentinela/). |
+| [**Wand Enhancer**](https://github.com/srlorenzos/Wand-Enhancer) | Extensão de UX e interoperabilidade avançada para o app Wand (WeMod), em C#. |
+
+## Em construção
+
+> 🚧 **[Acompanhe o andamento → portfolio.coube.shop/#construcao](https://portfolio.coube.shop/#construcao)** — capturas reais, status e fase atual de cada um.
+
+| Projeto | Status | O que é |
+| --- | --- | --- |
+| **Faction Clash** | Em construção | Combate por turnos PvP entre vampiros e lobisomens, com clãs e guerras. Original, com arte e regras próprias. *Código privado.* |
+| **Eldoria Idle** | Em construção | RPG idle 2D de fantasia: classes, campos de caça, masmorras, missões e reencarnação. Já roda inteiro no navegador. *Código privado.* |
+| **Bot Hub** | Alpha | Plataforma desktop para centralizar bots de jogos: playlists, visão computacional, OCR. *Código privado.* |
+| **Cidade-Estado** *(nome provisório)* | Em planejamento | Estratégia de navegador de construção e governo de uma cidade-estado insular. Recon concluído, arquitetura a definir. |
+| **Ciclo de Vida** *(nome provisório)* | Em planejamento | Simulador de vida em texto, com escolhas e consequências ao longo dos anos. Recon concluído. |
 
 ## Ferramentas
 
